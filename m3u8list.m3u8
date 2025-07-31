@@ -1,0 +1,319 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/abc-us.png",ABC
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cbs-us.png",CBS
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cw-us.png",CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-us.png",Fox
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-us.png",NBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pbs-us.png",PBS
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bbc-news-us.png",BBC News
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bloomberg-us.png",Bloomberg TV
+https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/c-span-1-us.png",C-SPAN 1
+https://fl3.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cnbc-us.png",CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cnn-us.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/court-tv-us.png",Court TV
+https://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-business-us.png",Fox Business
+https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-news-us.png",Fox News
+https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hln-us.png",HLN
+https://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/newsmax-us.png",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/newsnation-us.png",NewsNation
+https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/the-weather-channel-us.png",The Weather Channel
+https://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/acc-network-us.png",ACC Network
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bein-sports-us.png",beIN Sports
+https://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/big-ten-network-us.png",Big Ten Network
+https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cbs-sports-network-us.png",CBS Sports Network
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-us.png",ESPN
+https://fl1.moveonjoy.com/Espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-2-us.png",ESPN 2
+https://fl3.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espnews-us.png",ESPNews
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-u-us.png",ESPNU
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-sports-1-us.png",FS1
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-sports-2-us.png",FS2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/gol-tv-us.png",Gol TV
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/marquee-sports-network-us.png",Marquee Sports Network
+https://fl5.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mlb-network-us.png",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/msg-us.png",MSG
+https://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nba-tv-us.png",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-sports-boston-us.png",NBC Sports Boston
+https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nesn-us.png",NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nfl-network-us.png",NFL Network
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nfl-redzone-us.png",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nhl-network-us.png",NHL Network
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/outside-tv-us.png",Outside TV
+https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pursuit-us.png",Pursuit
+https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/racer-network-us.png",Racer Network
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sec-network-us.png",SEC Network
+https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sportsman-channel-us.png",Sportsman Channel
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sportsnet-new-york-us.png",SportsNet New York
+https://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tennis-channel-us.png",Tennis Channel
+https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/world-fishing-network-us.png",World Fishing Network
+https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/yes-network-us.png",YES Network
+https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/amc-us.png",AMC
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/aspire-tv-us.png",Aspire
+https://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bbc-america-us.png",BBC America
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bet-us.png",BET
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bounce-us.png",Bounce
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bravo-us.png",Bravo
+https://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/buzzr-us.png",Buzzr
+https://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/charge-us.png",Charge!
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-us.png",Cinemax
+https://fl3.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cleo-tv-us.png",Cleo TV
+https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cmt-us.png",CMT
+https://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/comedy-central-us.png",Comedy Central
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/comet-us.png",Comet
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cozi-tv-us.png",COZI TV
+https://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/e-entertainment-television-us.png",E! Entertainment Television
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/freeform-us.png",Freeform
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fx-us.png",FX
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fx-movie-channel-us.png",FX Movie Channel
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fxx-us.png",FXX
+https://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/game-show-network-us.png",Game Show Network
+https://streamer1.nexgen.bz/GSN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/get-us.png",Get
+https://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/grit-us.png",Grit
+https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hallmark-channel-us.png",Hallmark Channel
+https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hallmark-family-us.png",Hallmark Family
+https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hallmark-mystery-us.png",Hallmark Mystery
+https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/ifc-us.png",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/insp-us.png",Insp
+https://fl3.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/ion-television-us.png",Ion
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/ion-plus-us.png",Ion Plus
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/laff-us.png",Laff
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/lifetime-us.png",Lifetime
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/lifetime-movie-network-us.png",Lifetime Movie Network
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/metv-us.png",MeTV
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/ovation-us.png",Ovation
+https://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/oxygen-true-crime-us.png",Oxygen True Crime
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/paramount-network-us.png",Paramount Network
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/reelz-us.png",Reelz
+https://fl3.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/start-tv-us.png",Start TV
+https://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sundance-tv-us.png",Sundance TV
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/syfy-us.png",SYFY
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tbs-us.png",TBS
+https://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tcm-us.png",TCM
+https://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tnt-us.png",TNT
+https://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/trutv-us.png",TruTV
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tv-one-us.png",TV One
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/up-tv-us.png",Up TV
+https://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/usa-network-us.png",USA Network
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/vice-tv-us.png",Vice TV
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/we-tv-us.png",We TV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-5-starmax-us.png",5StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-us.png",HBO
+https://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-2-us.png",HBO 2
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-comedy-us.png",HBO Comedy
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-family-us.png",HBO Family
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-signature-us.png",HBO Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-zone-us.png",HBO Zone
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mgm-plus-us.png",MGM+
+https://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-thrillermax-us.png",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-outermax-us.png",Outermax
+https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/showtime-us.png",Showtime
+https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/showtime-2-us.png",Showtime 2
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/showtime-next-us.png",Showtime Next
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/showtime-women-us.png",Showtime Women
+https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/starz-us.png",Starz
+https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/starz-cinema-us.png",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/starz-comedy-us.png",Starz Comedy
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-moremax-us.png",ThrillerMax
+http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/awe-us.png",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bet-her-us.png",BET Her
+https://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cooking-channel-us.png",Cooking Channel
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/destination-america-us.png",Destination America
+https://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/discovery-life-us.png",Discovery Life
+https://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/food-network-us.png",Food Network
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fyi-us.png",FYI
+https://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hgtv-us.png",HGTV
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/magnolia-network-us.png",Magnolia Network
+https://fl3.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/oprah-winfrey-network-us.png",Oprah Winfrey Network (OWN)
+https://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/outdoor-channel-us.png",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/qvc-us.png",QVC
+https://fl3.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/rfd-tv-us.png",RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tlc-us.png",TLC
+https://fl1.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/travel-channel-us.png",Travel Channel
+https://fl3.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/boomerang-us.png",Boomerang
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cartoon-network-us.png",Cartoon Network
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/discovery-family-us.png",Discovery Family
+https://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/disney-channel-us.png",Disney Channel
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/disney-jr-us.png",Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/disney-xd-us.png",Disney XD
+https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nick-jr-us.png",Nick Jr
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nick-us.png",Nickelodeon
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nicktoons-us.png",Nicktoons
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pbs-kids-us.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/toonami-aftermath.png",Toonami Aftermath (East)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/animal-planet-us.png",Animal Planet
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/crime-and-investigation-us.png",Crime+ Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/discovery-channel-us.png",Discovery Channel
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/history-us.png",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/investigation-discovery-us.png",Investigation Discovery (ID)
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/motor-trend-us.png",MotorTrend
+https://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/national-geographic-us.png",National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/national-geographic-wild-us.png",National Geographic  Wild
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/smithsonian-channel-us.png",Smithsonian Channel
+https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fuse-us.png",Fuse
+https://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-us.png",MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-classic-us.png",MTV Classic
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-live-us.png",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-2-us.png",MTV2
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-u-us.png",MTVU
+https://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nick-music-us.png",Nick Music
+https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/revolt-us.png",Revolt
+https://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/vh1-us.png",VH1
+https://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/telemundo-us.png",Telemundo
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
