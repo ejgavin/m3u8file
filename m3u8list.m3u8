@@ -9,6 +9,8 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-us.png",NBC
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-us.png",NBC East
+https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pbs-us.png",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bbc-news-us.png",BBC News
