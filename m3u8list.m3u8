@@ -39,6 +39,8 @@ https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 https://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/acc-network-us.png",ACC Network
 https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/766366459614334976/Hs4mQUCc_400x400.jpg",ACC Network Extra
+https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bein-sports-us.png",beIN Sports
 https://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/big-ten-network-us.png",Big Ten Network
