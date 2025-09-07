@@ -76,7 +76,7 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nfl-network-us.png",NFL Network
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nfl-redzone-us.png",NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+http://m3u8stuff.ejgavin11.workers.dev/aHR0cHM6Ly9mbDMubW92ZW9uam95LmNvbS9ORkxfUmVkWm9uZS9pbmRleC5tM3U4
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nhl-network-us.png",NHL Network
 https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/outside-tv-us.png",Outside TV
